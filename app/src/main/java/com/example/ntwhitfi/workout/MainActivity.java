@@ -2,7 +2,6 @@ package com.example.ntwhitfi.workout;
 
 import android.app.Activity;
 import android.app.FragmentTransaction;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends Activity
